@@ -25,16 +25,16 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Bern",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2026-08-16T22:52:58.715Z",
+      "notes": "Bern",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "46.94932478023444",
+        "lng": "7.465209960937501"
       },
-      "id": 98443197
+      "id": 98443202
     }
   ]
 }
