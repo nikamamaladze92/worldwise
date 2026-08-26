@@ -10,6 +10,13 @@ const CitiesContext = createContext();
 
 const BASE_URL = "http://localhost:8000";
 
+//check later and delete
+//check later and delete
+//check later and delete
+
+//check later and delete
+//check later and delete
+
 const initialState = {
   cities: [],
   isLoading: false,
