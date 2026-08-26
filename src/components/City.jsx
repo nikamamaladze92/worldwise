@@ -5,10 +5,6 @@ import { useCities } from "../contexts/CitiesContext";
 import Spinner from "./Spinner";
 import BackButton from "./BackButton";
 
-//check later and delete
-//check later and delete
-//check later and delete
-
 const formatDate = (date) =>
   new Intl.DateTimeFormat("en", {
     day: "numeric",

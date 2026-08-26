@@ -25,14 +25,6 @@ const AppLayout = lazy(() => import("./pages/AppLayout"));
 const PageNotFound = lazy(() => import("./pages/PageNotFound"));
 const Login = lazy(() => import("./pages/Login"));
 
-//check later and delete
-
-//check later and delete
-//check later and delete
-
-//check later and delete
-//check later and delete
-
 function App() {
   return (
     <AuthProvider>
